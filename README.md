@@ -10,10 +10,8 @@ Motivated Computer Science and Engineering student with strong problem-solving s
 - **Name:** Sarada Suvarna Tekumalla
 - **Email:** suvarnat1612@gmail.com
 
-- **GitHub:** [SaradaSuvarnaTekumalla](https://github.com/SaradaSuvarnaTekumalla)
-- **LinkedIn:** [sarada-suvarna-tekumalla](https://www.linkedin.com/in/sarada-suvarna-tekumalla/)
-- **LeetCode:** [SaradaSuvarnaTekumalla](https://leetcode.com/SaradaSuvarnaTekumalla/)
-- **GeeksForGeeks:** [suvarnat1612](https://auth.geeksforgeeks.org/user/suvarnat1612/practice/)
+- **GitHub:** [SaradaSuvarnaTekumalla](https://github.com/Suvarna1612)
+- **LinkedIn:** [sarada-suvarna-tekumalla](https://www.linkedin.com/in/sarada-suvarna-tekumalla-107400254/)
 
 ## 🎯 Career Objective
 
